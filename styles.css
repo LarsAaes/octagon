@@ -1,0 +1,19 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+
+#gridDiv {
+display: flex;
+height: 100vh;
+}
+
+#canvas
+{   
+ 
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+
+}
